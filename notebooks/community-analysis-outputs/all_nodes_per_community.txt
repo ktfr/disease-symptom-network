@@ -1,0 +1,1567 @@
+Community 2:
+  - abdominal aortic aneurysm
+  - abdominal aortic aneurysm
+  - abdominal hernia
+  - abdominal hernia
+  - acute fatty liver of pregnancy (aflp)
+  - acute fatty liver of pregnancy (aflp)
+  - acute kidney injury
+  - acute kidney injury
+  - acute pancreatitis
+  - acute pancreatitis
+  - adrenal adenoma
+  - adrenal adenoma
+  - alcoholic liver disease
+  - alcoholic liver disease
+  - anal fissure
+  - anal fissure
+  - anal fistula
+  - anal fistula
+  - appendicitis
+  - appendicitis
+  - ascending cholangitis
+  - ascending cholangitis
+  - atonic bladder
+  - atonic bladder
+  - atrophic vaginitis
+  - atrophic vaginitis
+  - benign kidney cyst
+  - benign kidney cyst
+  - benign prostatic hyperplasia (bph)
+  - benign prostatic hyperplasia (bph)
+  - benign vaginal discharge (leukorrhea)
+  - benign vaginal discharge (leukorrhea)
+  - bladder cancer
+  - bladder cancer
+  - bladder disorder
+  - bladder disorder
+  - bladder obstruction
+  - bladder obstruction
+  - carcinoid syndrome
+  - carcinoid syndrome
+  - celiac disease
+  - celiac disease
+  - cervical cancer
+  - cervical cancer
+  - cervical disorder
+  - cervical disorder
+  - cervicitis
+  - cervicitis
+  - chlamydia
+  - chlamydia
+  - cholecystitis
+  - cholecystitis
+  - choledocholithiasis
+  - choledocholithiasis
+  - chronic constipation
+  - chronic constipation
+  - chronic pancreatitis
+  - chronic pancreatitis
+  - cirrhosis
+  - cirrhosis
+  - colonic polyp
+  - colonic polyp
+  - colorectal cancer
+  - colorectal cancer
+  - crohn disease
+  - crohn disease
+  - cystitis
+  - cystitis
+  - diabetic ketoacidosis
+  - diabetic ketoacidosis
+  - diabetic kidney disease
+  - diabetic kidney disease
+  - dislocation of the foot
+  - dislocation of the foot
+  - diverticulitis
+  - diverticulitis
+  - diverticulosis
+  - diverticulosis
+  - drug withdrawal
+  - drug withdrawal
+  - dumping syndrome
+  - dumping syndrome
+  - ectopic pregnancy
+  - ectopic pregnancy
+  - edward syndrome
+  - edward syndrome
+  - endometrial cancer
+  - endometrial cancer
+  - endometrial hyperplasia
+  - endometrial hyperplasia
+  - endometriosis
+  - endometriosis
+  - epididymitis
+  - epididymitis
+  - erectile dysfunction
+  - erectile dysfunction
+  - esophageal cancer
+  - esophageal cancer
+  - esophageal varices
+  - esophageal varices
+  - esophagitis
+  - esophagitis
+  - female infertility of unknown cause
+  - female infertility of unknown cause
+  - fluid overload
+  - fluid overload
+  - foreign body in the gastrointestinal tract
+  - foreign body in the gastrointestinal tract
+  - foreign body in the vagina
+  - foreign body in the vagina
+  - gallstone
+  - gallstone
+  - gas gangrene
+  - gas gangrene
+  - gastritis
+  - gastritis
+  - gastroduodenal ulcer
+  - gastroduodenal ulcer
+  - gastroesophageal reflux disease (gerd)
+  - gastroesophageal reflux disease (gerd)
+  - gastrointestinal hemorrhage
+  - gastrointestinal hemorrhage
+  - gastroparesis
+  - gastroparesis
+  - gestational diabetes
+  - gestational diabetes
+  - gonorrhea
+  - gonorrhea
+  - headache after lumbar puncture
+  - headache after lumbar puncture
+  - hematoma
+  - hematoma
+  - hemorrhoids
+  - hemorrhoids
+  - hepatic encephalopathy
+  - hepatic encephalopathy
+  - hepatitis due to a toxin
+  - hepatitis due to a toxin
+  - hiatal hernia
+  - hiatal hernia
+  - hirschsprung disease
+  - hirschsprung disease
+  - hpv
+  - hpv
+  - hydatidiform mole
+  - hydatidiform mole
+  - hydrocele of the testicle
+  - hydrocele of the testicle
+  - hydronephrosis
+  - hydronephrosis
+  - hyperemesis gravidarum
+  - hyperemesis gravidarum
+  - hypertension of pregnancy
+  - hypertension of pregnancy
+  - hypokalemia
+  - hypokalemia
+  - hyponatremia
+  - hyponatremia
+  - hypovolemia
+  - hypovolemia
+  - idiopathic absence of menstruation
+  - idiopathic absence of menstruation
+  - idiopathic excessive menstruation
+  - idiopathic excessive menstruation
+  - idiopathic infrequent menstruation
+  - idiopathic infrequent menstruation
+  - idiopathic irregular menstrual cycle
+  - idiopathic irregular menstrual cycle
+  - idiopathic nonmenstrual bleeding
+  - idiopathic nonmenstrual bleeding
+  - idiopathic painful menstruation
+  - idiopathic painful menstruation
+  - ileus
+  - ileus
+  - indigestion
+  - indigestion
+  - induced abortion
+  - induced abortion
+  - infectious gastroenteritis
+  - infectious gastroenteritis
+  - inguinal hernia
+  - inguinal hernia
+  - injury to internal organ
+  - injury to internal organ
+  - injury to the abdomen
+  - injury to the abdomen
+  - intestinal cancer
+  - intestinal cancer
+  - intestinal disease
+  - intestinal disease
+  - intestinal malabsorption
+  - intestinal malabsorption
+  - intestinal obstruction
+  - intestinal obstruction
+  - intussusception
+  - intussusception
+  - irritable bowel syndrome
+  - irritable bowel syndrome
+  - ischemia of the bowel
+  - ischemia of the bowel
+  - kidney cancer
+  - kidney cancer
+  - kidney stone
+  - kidney stone
+  - liver cancer
+  - liver cancer
+  - liver disease
+  - liver disease
+  - meckel diverticulum
+  - meckel diverticulum
+  - menopause
+  - menopause
+  - missed abortion
+  - missed abortion
+  - mittelschmerz
+  - mittelschmerz
+  - nonalcoholic liver disease (nash)
+  - nonalcoholic liver disease (nash)
+  - noninfectious gastroenteritis
+  - noninfectious gastroenteritis
+  - open wound of the abdomen
+  - open wound of the abdomen
+  - ovarian cancer
+  - ovarian cancer
+  - ovarian cyst
+  - ovarian cyst
+  - ovarian torsion
+  - ovarian torsion
+  - overflow incontinence
+  - overflow incontinence
+  - pain after an operation
+  - pain after an operation
+  - pancreatic cancer
+  - pancreatic cancer
+  - pelvic inflammatory disease
+  - pelvic inflammatory disease
+  - pelvic organ prolapse
+  - pelvic organ prolapse
+  - peritonitis
+  - peritonitis
+  - persistent vomiting of unknown cause
+  - persistent vomiting of unknown cause
+  - peyronie disease
+  - peyronie disease
+  - phimosis
+  - phimosis
+  - pinworm infection
+  - pinworm infection
+  - placenta previa
+  - placenta previa
+  - placental abruption
+  - placental abruption
+  - poisoning due to antihypertensives
+  - poisoning due to antihypertensives
+  - polycystic kidney disease
+  - polycystic kidney disease
+  - polycystic ovarian syndrome (pcos)
+  - polycystic ovarian syndrome (pcos)
+  - preeclampsia
+  - preeclampsia
+  - pregnancy
+  - pregnancy
+  - premature ovarian failure
+  - premature ovarian failure
+  - premature rupture of amniotic membrane
+  - premature rupture of amniotic membrane
+  - primary kidney disease
+  - primary kidney disease
+  - problem during pregnancy
+  - problem during pregnancy
+  - prostate cancer
+  - prostate cancer
+  - prostatitis
+  - prostatitis
+  - protein deficiency
+  - protein deficiency
+  - pyelonephritis
+  - pyelonephritis
+  - rectal disorder
+  - rectal disorder
+  - scurvy
+  - scurvy
+  - sepsis
+  - sepsis
+  - spermatocele
+  - spermatocele
+  - spontaneous abortion
+  - spontaneous abortion
+  - stomach cancer
+  - stomach cancer
+  - stress incontinence
+  - stress incontinence
+  - subacute thyroiditis
+  - subacute thyroiditis
+  - temporary or benign blood in urine
+  - temporary or benign blood in urine
+  - testicular torsion
+  - testicular torsion
+  - threatened pregnancy
+  - threatened pregnancy
+  - trichomonas infection
+  - trichomonas infection
+  - ulcerative colitis
+  - ulcerative colitis
+  - urethral disorder
+  - urethral disorder
+  - urethral stricture
+  - urethral stricture
+  - urethral valves
+  - urethral valves
+  - urethritis
+  - urethritis
+  - urge incontinence
+  - urge incontinence
+  - urinary tract infection
+  - urinary tract infection
+  - urinary tract obstruction
+  - urinary tract obstruction
+  - uterine atony
+  - uterine atony
+  - uterine cancer
+  - uterine cancer
+  - uterine fibroids
+  - uterine fibroids
+  - vacterl syndrome
+  - vacterl syndrome
+  - vaginal cyst
+  - vaginal cyst
+  - vaginal yeast infection
+  - vaginal yeast infection
+  - vaginismus
+  - vaginismus
+  - vaginitis
+  - vaginitis
+  - varicocele of the testicles
+  - varicocele of the testicles
+  - vesicoureteral reflux
+  - vesicoureteral reflux
+  - viral hepatitis
+  - viral hepatitis
+  - volvulus
+  - volvulus
+  - von willebrand disease
+  - von willebrand disease
+  - vulvar disorder
+  - vulvar disorder
+  - vulvodynia
+  - vulvodynia
+  - white blood cell disease
+  - white blood cell disease
+  - yeast infection
+  - yeast infection
+
+----------------------------------------
+Community 5:
+  - abscess of the lung
+  - abscess of the lung
+  - achalasia
+  - achalasia
+  - acute respiratory distress syndrome (ards)
+  - acute respiratory distress syndrome (ards)
+  - adrenal cancer
+  - adrenal cancer
+  - amyloidosis
+  - amyloidosis
+  - anemia
+  - anemia
+  - anemia due to chronic kidney disease
+  - anemia due to chronic kidney disease
+  - anemia due to malignancy
+  - anemia due to malignancy
+  - anemia of chronic disease
+  - anemia of chronic disease
+  - angina
+  - angina
+  - aortic valve disease
+  - aortic valve disease
+  - aplastic anemia
+  - aplastic anemia
+  - arrhythmia
+  - arrhythmia
+  - aspergillosis
+  - aspergillosis
+  - atelectasis
+  - atelectasis
+  - atrial fibrillation
+  - atrial fibrillation
+  - atrial flutter
+  - atrial flutter
+  - benign paroxysmal positional vertical (bppv)
+  - benign paroxysmal positional vertical (bppv)
+  - cardiac arrest
+  - cardiac arrest
+  - cardiomyopathy
+  - cardiomyopathy
+  - central atherosclerosis
+  - central atherosclerosis
+  - chronic inflammatory demyelinating polyneuropathy (cidp)
+  - chronic inflammatory demyelinating polyneuropathy (cidp)
+  - chronic kidney disease
+  - chronic kidney disease
+  - chronic rheumatic fever
+  - chronic rheumatic fever
+  - congenital heart defect
+  - congenital heart defect
+  - coronary atherosclerosis
+  - coronary atherosclerosis
+  - cushing syndrome
+  - cushing syndrome
+  - cysticercosis
+  - cysticercosis
+  - diabetes
+  - diabetes
+  - diabetes insipidus
+  - diabetes insipidus
+  - emphysema
+  - emphysema
+  - empyema
+  - empyema
+  - endocarditis
+  - endocarditis
+  - folate deficiency
+  - folate deficiency
+  - fracture of the rib
+  - fracture of the rib
+  - frostbite
+  - frostbite
+  - glucocorticoid deficiency
+  - glucocorticoid deficiency
+  - goiter
+  - goiter
+  - granuloma inguinale
+  - granuloma inguinale
+  - graves disease
+  - graves disease
+  - heart attack
+  - heart attack
+  - heart block
+  - heart block
+  - heart failure
+  - heart failure
+  - heat exhaustion
+  - heat exhaustion
+  - heat stroke
+  - heat stroke
+  - high blood pressure
+  - high blood pressure
+  - hypercalcemia
+  - hypercalcemia
+  - hypercholesterolemia
+  - hypercholesterolemia
+  - hypergammaglobulinemia
+  - hypergammaglobulinemia
+  - hyperkalemia
+  - hyperkalemia
+  - hyperlipidemia
+  - hyperlipidemia
+  - hypernatremia
+  - hypernatremia
+  - hypertensive heart disease
+  - hypertensive heart disease
+  - hypertrophic obstructive cardiomyopathy (hocm)
+  - hypertrophic obstructive cardiomyopathy (hocm)
+  - hypocalcemia
+  - hypocalcemia
+  - hypothyroidism
+  - hypothyroidism
+  - iron deficiency anemia
+  - iron deficiency anemia
+  - ischemic heart disease
+  - ischemic heart disease
+  - kidney disease due to longstanding hypertension
+  - kidney disease due to longstanding hypertension
+  - kidney failure
+  - kidney failure
+  - lactose intolerance
+  - lactose intolerance
+  - lung cancer
+  - lung cancer
+  - lung contusion
+  - lung contusion
+  - lymphoma
+  - lymphoma
+  - magnesium deficiency
+  - magnesium deficiency
+  - malignant hypertension
+  - malignant hypertension
+  - metabolic disorder
+  - metabolic disorder
+  - metastatic cancer
+  - metastatic cancer
+  - mitral valve disease
+  - mitral valve disease
+  - multiple myeloma
+  - multiple myeloma
+  - myasthenia gravis
+  - myasthenia gravis
+  - myelodysplastic syndrome
+  - myelodysplastic syndrome
+  - myocarditis
+  - myocarditis
+  - narcolepsy
+  - narcolepsy
+  - obesity
+  - obesity
+  - obstructive sleep apnea (osa)
+  - obstructive sleep apnea (osa)
+  - open wound of the chest
+  - open wound of the chest
+  - orthostatic hypotension
+  - orthostatic hypotension
+  - otosclerosis
+  - otosclerosis
+  - panic attack
+  - panic attack
+  - paroxysmal supraventricular tachycardia
+  - paroxysmal supraventricular tachycardia
+  - paroxysmal ventricular tachycardia
+  - paroxysmal ventricular tachycardia
+  - pelvic fistula
+  - pelvic fistula
+  - pericarditis
+  - pericarditis
+  - pleural effusion
+  - pleural effusion
+  - pneumoconiosis
+  - pneumoconiosis
+  - pneumothorax
+  - pneumothorax
+  - poisoning due to antimicrobial drugs
+  - poisoning due to antimicrobial drugs
+  - poisoning due to gas
+  - poisoning due to gas
+  - polycythemia vera
+  - polycythemia vera
+  - polymyalgia rheumatica
+  - polymyalgia rheumatica
+  - premature atrial contractions (pacs)
+  - premature atrial contractions (pacs)
+  - premature ventricular contractions (pvcs)
+  - premature ventricular contractions (pvcs)
+  - primary thrombocythemia
+  - primary thrombocythemia
+  - pulmonary congestion
+  - pulmonary congestion
+  - pulmonary embolism
+  - pulmonary embolism
+  - pulmonary eosinophilia
+  - pulmonary eosinophilia
+  - pulmonary fibrosis
+  - pulmonary fibrosis
+  - pulmonary hypertension
+  - pulmonary hypertension
+  - pulmonic valve disease
+  - pulmonic valve disease
+  - sarcoidosis
+  - sarcoidosis
+  - sick sinus syndrome
+  - sick sinus syndrome
+  - sinus bradycardia
+  - sinus bradycardia
+  - smoking or tobacco addiction
+  - smoking or tobacco addiction
+  - stricture of the esophagus
+  - stricture of the esophagus
+  - syndrome of inappropriate secretion of adh (siadh)
+  - syndrome of inappropriate secretion of adh (siadh)
+  - testicular disorder
+  - testicular disorder
+  - thoracic aortic aneurysm
+  - thoracic aortic aneurysm
+  - thrombocytopenia
+  - thrombocytopenia
+  - thyroid cancer
+  - thyroid cancer
+  - tietze syndrome
+  - tietze syndrome
+  - toxic multinodular goiter
+  - toxic multinodular goiter
+  - tuberculosis
+  - tuberculosis
+  - valley fever
+  - valley fever
+  - vertebrobasilar insufficiency
+  - vertebrobasilar insufficiency
+  - vitamin b12 deficiency
+  - vitamin b12 deficiency
+  - vitamin d deficiency
+  - vitamin d deficiency
+  - zenker diverticulum
+  - zenker diverticulum
+
+----------------------------------------
+Community 3:
+  - abscess of nose
+  - abscess of nose
+  - abscess of the pharynx
+  - abscess of the pharynx
+  - acute bronchiolitis
+  - acute bronchiolitis
+  - acute bronchitis
+  - acute bronchitis
+  - acute bronchospasm
+  - acute bronchospasm
+  - acute otitis media
+  - acute otitis media
+  - acute sinusitis
+  - acute sinusitis
+  - allergy to animals
+  - allergy to animals
+  - aphthous ulcer
+  - aphthous ulcer
+  - asthma
+  - asthma
+  - broken tooth
+  - broken tooth
+  - cholesteatoma
+  - cholesteatoma
+  - chronic obstructive pulmonary disease (copd)
+  - chronic obstructive pulmonary disease (copd)
+  - chronic otitis media
+  - chronic otitis media
+  - chronic sinusitis
+  - chronic sinusitis
+  - common cold
+  - common cold
+  - conductive hearing loss
+  - conductive hearing loss
+  - conjunctivitis
+  - conjunctivitis
+  - conjunctivitis due to bacteria
+  - conjunctivitis due to bacteria
+  - connective tissue disorder
+  - connective tissue disorder
+  - croup
+  - croup
+  - cystic fibrosis
+  - cystic fibrosis
+  - dengue fever
+  - dengue fever
+  - dental caries
+  - dental caries
+  - deviated nasal septum
+  - deviated nasal septum
+  - diaper rash
+  - diaper rash
+  - down syndrome
+  - down syndrome
+  - ear drum damage
+  - ear drum damage
+  - ear wax impaction
+  - ear wax impaction
+  - erythema multiforme
+  - erythema multiforme
+  - eustachian tube dysfunction (ear disorder)
+  - eustachian tube dysfunction (ear disorder)
+  - flu
+  - flu
+  - foreign body in the ear
+  - foreign body in the ear
+  - foreign body in the nose
+  - foreign body in the nose
+  - foreign body in the throat
+  - foreign body in the throat
+  - friedrich ataxia
+  - friedrich ataxia
+  - g6pd enzyme deficiency
+  - g6pd enzyme deficiency
+  - gum disease
+  - gum disease
+  - head and neck cancer
+  - head and neck cancer
+  - hemolytic anemia
+  - hemolytic anemia
+  - hemophilia
+  - hemophilia
+  - herpangina
+  - herpangina
+  - histoplasmosis
+  - histoplasmosis
+  - hyperhidrosis
+  - hyperhidrosis
+  - hyperosmotic hyperketotic state
+  - hyperosmotic hyperketotic state
+  - injury to the face
+  - injury to the face
+  - interstitial lung disease
+  - interstitial lung disease
+  - jaw disorder
+  - jaw disorder
+  - labyrinthitis
+  - labyrinthitis
+  - laryngitis
+  - laryngitis
+  - leukemia
+  - leukemia
+  - lice
+  - lice
+  - lymphadenitis
+  - lymphadenitis
+  - lymphogranuloma venereum
+  - lymphogranuloma venereum
+  - malaria
+  - malaria
+  - mastoiditis
+  - mastoiditis
+  - meniere disease
+  - meniere disease
+  - meningitis
+  - meningitis
+  - mononucleosis
+  - mononucleosis
+  - mucositis
+  - mucositis
+  - mumps
+  - mumps
+  - muscular dystrophy
+  - muscular dystrophy
+  - nasal polyp
+  - nasal polyp
+  - neuropathy due to drugs
+  - neuropathy due to drugs
+  - nose disorder
+  - nose disorder
+  - open wound of the ear
+  - open wound of the ear
+  - open wound of the lip
+  - open wound of the lip
+  - open wound of the mouth
+  - open wound of the mouth
+  - open wound of the nose
+  - open wound of the nose
+  - oral mucosal lesion
+  - oral mucosal lesion
+  - oral thrush (yeast infection)
+  - oral thrush (yeast infection)
+  - otitis externa (swimmer's ear)
+  - otitis externa (swimmer's ear)
+  - otitis media
+  - otitis media
+  - peritonsillar abscess
+  - peritonsillar abscess
+  - pharyngitis
+  - pharyngitis
+  - pneumonia
+  - pneumonia
+  - presbyacusis
+  - presbyacusis
+  - primary immunodeficiency
+  - primary immunodeficiency
+  - pyloric stenosis
+  - pyloric stenosis
+  - salivary gland disorder
+  - salivary gland disorder
+  - scarlet fever
+  - scarlet fever
+  - seasonal allergies (hay fever)
+  - seasonal allergies (hay fever)
+  - sensorineural hearing loss
+  - sensorineural hearing loss
+  - sialoadenitis
+  - sialoadenitis
+  - spherocytosis
+  - spherocytosis
+  - strep throat
+  - strep throat
+  - teething syndrome
+  - teething syndrome
+  - temporomandibular joint disorder
+  - temporomandibular joint disorder
+  - thyroid disease
+  - thyroid disease
+  - thyroid nodule
+  - thyroid nodule
+  - tinnitus of unknown cause
+  - tinnitus of unknown cause
+  - tonsillar hypertrophy
+  - tonsillar hypertrophy
+  - tonsillitis
+  - tonsillitis
+  - tooth disorder
+  - tooth disorder
+  - tracheitis
+  - tracheitis
+  - trichinosis
+  - trichinosis
+  - typhoid fever
+  - typhoid fever
+  - vocal cord polyp
+  - vocal cord polyp
+  - whooping cough
+  - whooping cough
+  - wilson disease
+  - wilson disease
+
+----------------------------------------
+Community 0:
+  - acute stress reaction
+  - acute stress reaction
+  - adjustment reaction
+  - adjustment reaction
+  - alcohol abuse
+  - alcohol abuse
+  - alcohol intoxication
+  - alcohol intoxication
+  - alcohol withdrawal
+  - alcohol withdrawal
+  - alzheimer disease
+  - alzheimer disease
+  - amyotrophic lateral sclerosis (als)
+  - amyotrophic lateral sclerosis (als)
+  - anxiety
+  - anxiety
+  - asperger syndrome
+  - asperger syndrome
+  - attention deficit hyperactivity disorder (adhd)
+  - attention deficit hyperactivity disorder (adhd)
+  - autism
+  - autism
+  - bipolar disorder
+  - bipolar disorder
+  - birth trauma
+  - birth trauma
+  - brain cancer
+  - brain cancer
+  - carbon monoxide poisoning
+  - carbon monoxide poisoning
+  - cerebral palsy
+  - cerebral palsy
+  - conduct disorder
+  - conduct disorder
+  - congenital malformation syndrome
+  - congenital malformation syndrome
+  - conversion disorder
+  - conversion disorder
+  - cryptococcosis
+  - cryptococcosis
+  - cryptorchidism
+  - cryptorchidism
+  - delirium
+  - delirium
+  - dementia
+  - dementia
+  - depression
+  - depression
+  - developmental disability
+  - developmental disability
+  - dissociative disorder
+  - dissociative disorder
+  - drug abuse
+  - drug abuse
+  - drug abuse (barbiturates)
+  - drug abuse (barbiturates)
+  - drug abuse (cocaine)
+  - drug abuse (cocaine)
+  - drug abuse (methamphetamine)
+  - drug abuse (methamphetamine)
+  - drug abuse (opioids)
+  - drug abuse (opioids)
+  - drug poisoning due to medication
+  - drug poisoning due to medication
+  - dysthymic disorder
+  - dysthymic disorder
+  - eating disorder
+  - eating disorder
+  - encephalitis
+  - encephalitis
+  - epidural hemorrhage
+  - epidural hemorrhage
+  - epilepsy
+  - epilepsy
+  - essential tremor
+  - essential tremor
+  - extrapyramidal effect of drugs
+  - extrapyramidal effect of drugs
+  - factitious disorder
+  - factitious disorder
+  - fetal alcohol syndrome
+  - fetal alcohol syndrome
+  - fracture of the skull
+  - fracture of the skull
+  - galactorrhea of unknown cause
+  - galactorrhea of unknown cause
+  - hashimoto thyroiditis
+  - hashimoto thyroiditis
+  - heart contusion
+  - heart contusion
+  - hemiplegia
+  - hemiplegia
+  - hormone disorder
+  - hormone disorder
+  - human immunodeficiency virus infection (hiv)
+  - human immunodeficiency virus infection (hiv)
+  - huntington disease
+  - huntington disease
+  - hydrocephalus
+  - hydrocephalus
+  - hypoglycemia
+  - hypoglycemia
+  - hypothermia
+  - hypothermia
+  - impulse control disorder
+  - impulse control disorder
+  - insulin overdose
+  - insulin overdose
+  - intracerebral hemorrhage
+  - intracerebral hemorrhage
+  - intracranial abscess
+  - intracranial abscess
+  - intracranial hemorrhage
+  - intracranial hemorrhage
+  - kaposi sarcoma
+  - kaposi sarcoma
+  - lewy body dementia
+  - lewy body dementia
+  - lyme disease
+  - lyme disease
+  - marijuana abuse
+  - marijuana abuse
+  - meningioma
+  - meningioma
+  - moyamoya disease
+  - moyamoya disease
+  - multiple sclerosis
+  - multiple sclerosis
+  - myoclonus
+  - myoclonus
+  - neonatal jaundice
+  - neonatal jaundice
+  - neurosis
+  - neurosis
+  - normal pressure hydrocephalus
+  - normal pressure hydrocephalus
+  - obsessive compulsive disorder (ocd)
+  - obsessive compulsive disorder (ocd)
+  - omphalitis
+  - omphalitis
+  - open wound of the head
+  - open wound of the head
+  - oppositional disorder
+  - oppositional disorder
+  - panic disorder
+  - panic disorder
+  - parathyroid adenoma
+  - parathyroid adenoma
+  - parkinson disease
+  - parkinson disease
+  - personality disorder
+  - personality disorder
+  - poisoning due to analgesics
+  - poisoning due to analgesics
+  - poisoning due to anticonvulsants
+  - poisoning due to anticonvulsants
+  - poisoning due to antidepressants
+  - poisoning due to antidepressants
+  - poisoning due to antipsychotics
+  - poisoning due to antipsychotics
+  - poisoning due to ethylene glycol
+  - poisoning due to ethylene glycol
+  - poisoning due to opioids
+  - poisoning due to opioids
+  - poisoning due to sedatives
+  - poisoning due to sedatives
+  - post-traumatic stress disorder (ptsd)
+  - post-traumatic stress disorder (ptsd)
+  - postpartum depression
+  - postpartum depression
+  - premenstrual tension syndrome
+  - premenstrual tension syndrome
+  - priapism
+  - priapism
+  - primary insomnia
+  - primary insomnia
+  - psychosexual disorder
+  - psychosexual disorder
+  - psychotic disorder
+  - psychotic disorder
+  - restless leg syndrome
+  - restless leg syndrome
+  - schizophrenia
+  - schizophrenia
+  - social phobia
+  - social phobia
+  - somatization disorder
+  - somatization disorder
+  - spinocerebellar ataxia
+  - spinocerebellar ataxia
+  - stroke
+  - stroke
+  - subdural hemorrhage
+  - subdural hemorrhage
+  - substance-related mental disorder
+  - substance-related mental disorder
+  - tension headache
+  - tension headache
+  - testicular cancer
+  - testicular cancer
+  - thalassemia
+  - thalassemia
+  - tic (movement) disorder
+  - tic (movement) disorder
+  - tourette syndrome
+  - tourette syndrome
+  - transient ischemic attack
+  - transient ischemic attack
+  - tricuspid valve disease
+  - tricuspid valve disease
+  - tuberous sclerosis
+  - tuberous sclerosis
+  - turner syndrome
+  - turner syndrome
+  - vulvar cancer
+  - vulvar cancer
+  - wernicke korsakoff syndrome
+  - wernicke korsakoff syndrome
+
+----------------------------------------
+Community 4:
+  - adhesive capsulitis of the shoulder
+  - adhesive capsulitis of the shoulder
+  - ankylosing spondylitis
+  - ankylosing spondylitis
+  - arthritis of the hip
+  - arthritis of the hip
+  - autonomic nervous system disorder
+  - autonomic nervous system disorder
+  - avascular necrosis
+  - avascular necrosis
+  - bone cancer
+  - bone cancer
+  - bone disorder
+  - bone disorder
+  - bone spur of the calcaneous
+  - bone spur of the calcaneous
+  - brachial neuritis
+  - brachial neuritis
+  - burn
+  - burn
+  - bursitis
+  - bursitis
+  - carpal tunnel syndrome
+  - carpal tunnel syndrome
+  - cerebral edema
+  - cerebral edema
+  - chondromalacia of the patella
+  - chondromalacia of the patella
+  - chronic back pain
+  - chronic back pain
+  - chronic knee pain
+  - chronic knee pain
+  - chronic pain disorder
+  - chronic pain disorder
+  - coagulation (bleeding) disorder
+  - coagulation (bleeding) disorder
+  - complex regional pain syndrome
+  - complex regional pain syndrome
+  - concussion
+  - concussion
+  - crushing injury
+  - crushing injury
+  - de quervain disease
+  - de quervain disease
+  - degenerative disc disease
+  - degenerative disc disease
+  - diabetic peripheral neuropathy
+  - diabetic peripheral neuropathy
+  - dislocation of the ankle
+  - dislocation of the ankle
+  - dislocation of the elbow
+  - dislocation of the elbow
+  - dislocation of the finger
+  - dislocation of the finger
+  - dislocation of the hip
+  - dislocation of the hip
+  - dislocation of the knee
+  - dislocation of the knee
+  - dislocation of the patella
+  - dislocation of the patella
+  - dislocation of the shoulder
+  - dislocation of the shoulder
+  - dislocation of the vertebra
+  - dislocation of the vertebra
+  - dislocation of the wrist
+  - dislocation of the wrist
+  - fibromyalgia
+  - fibromyalgia
+  - flat feet
+  - flat feet
+  - fracture of the ankle
+  - fracture of the ankle
+  - fracture of the arm
+  - fracture of the arm
+  - fracture of the finger
+  - fracture of the finger
+  - fracture of the foot
+  - fracture of the foot
+  - fracture of the hand
+  - fracture of the hand
+  - fracture of the leg
+  - fracture of the leg
+  - fracture of the neck
+  - fracture of the neck
+  - fracture of the patella
+  - fracture of the patella
+  - fracture of the pelvis
+  - fracture of the pelvis
+  - fracture of the shoulder
+  - fracture of the shoulder
+  - fracture of the vertebra
+  - fracture of the vertebra
+  - ganglion cyst
+  - ganglion cyst
+  - gout
+  - gout
+  - guillain barre syndrome
+  - guillain barre syndrome
+  - gynecomastia
+  - gynecomastia
+  - head injury
+  - head injury
+  - hemarthrosis
+  - hemarthrosis
+  - herniated disk
+  - herniated disk
+  - injury of the ankle
+  - injury of the ankle
+  - injury to the arm
+  - injury to the arm
+  - injury to the finger
+  - injury to the finger
+  - injury to the hand
+  - injury to the hand
+  - injury to the hip
+  - injury to the hip
+  - injury to the knee
+  - injury to the knee
+  - injury to the leg
+  - injury to the leg
+  - injury to the shoulder
+  - injury to the shoulder
+  - injury to the spinal cord
+  - injury to the spinal cord
+  - injury to the trunk
+  - injury to the trunk
+  - joint effusion
+  - joint effusion
+  - juvenile rheumatoid arthritis
+  - juvenile rheumatoid arthritis
+  - knee ligament or meniscus tear
+  - knee ligament or meniscus tear
+  - lateral epicondylitis (tennis elbow)
+  - lateral epicondylitis (tennis elbow)
+  - lumbago
+  - lumbago
+  - lymphangitis
+  - lymphangitis
+  - mononeuritis
+  - mononeuritis
+  - muscle spasm
+  - muscle spasm
+  - myositis
+  - myositis
+  - necrotizing fasciitis
+  - necrotizing fasciitis
+  - nerve impingement near the shoulder
+  - nerve impingement near the shoulder
+  - neuralgia
+  - neuralgia
+  - open wound due to trauma
+  - open wound due to trauma
+  - open wound of the arm
+  - open wound of the arm
+  - open wound of the cheek
+  - open wound of the cheek
+  - open wound of the face
+  - open wound of the face
+  - open wound of the finger
+  - open wound of the finger
+  - open wound of the hand
+  - open wound of the hand
+  - open wound of the jaw
+  - open wound of the jaw
+  - open wound of the knee
+  - open wound of the knee
+  - open wound of the shoulder
+  - open wound of the shoulder
+  - osteoarthritis
+  - osteoarthritis
+  - osteochondrosis
+  - osteochondrosis
+  - osteoporosis
+  - osteoporosis
+  - pain disorder affecting the neck
+  - pain disorder affecting the neck
+  - peripheral arterial embolism
+  - peripheral arterial embolism
+  - peripheral nerve disorder
+  - peripheral nerve disorder
+  - plantar fasciitis
+  - plantar fasciitis
+  - pseudohypoparathyroidism
+  - pseudohypoparathyroidism
+  - raynaud disease
+  - raynaud disease
+  - reactive arthritis
+  - reactive arthritis
+  - rhabdomyolysis
+  - rhabdomyolysis
+  - rheumatoid arthritis
+  - rheumatoid arthritis
+  - rocky mountain spotted fever
+  - rocky mountain spotted fever
+  - rotator cuff injury
+  - rotator cuff injury
+  - sciatica
+  - sciatica
+  - scoliosis
+  - scoliosis
+  - septic arthritis
+  - septic arthritis
+  - sickle cell anemia
+  - sickle cell anemia
+  - sickle cell crisis
+  - sickle cell crisis
+  - spinal stenosis
+  - spinal stenosis
+  - spondylitis
+  - spondylitis
+  - spondylolisthesis
+  - spondylolisthesis
+  - spondylosis
+  - spondylosis
+  - sporotrichosis
+  - sporotrichosis
+  - sprain or strain
+  - sprain or strain
+  - syringomyelia
+  - syringomyelia
+  - systemic lupus erythematosis (sle)
+  - systemic lupus erythematosis (sle)
+  - tendinitis
+  - tendinitis
+  - thoracic outlet syndrome
+  - thoracic outlet syndrome
+  - thrombophlebitis
+  - thrombophlebitis
+  - torticollis
+  - torticollis
+  - trigger finger (finger disorder)
+  - trigger finger (finger disorder)
+  - vitamin a deficiency
+  - vitamin a deficiency
+
+----------------------------------------
+Community 1:
+  - acanthosis nigricans
+  - acanthosis nigricans
+  - acariasis
+  - acariasis
+  - acne
+  - acne
+  - actinic keratosis
+  - actinic keratosis
+  - allergy
+  - allergy
+  - alopecia
+  - alopecia
+  - athlete's foot
+  - athlete's foot
+  - atrophic skin condition
+  - atrophic skin condition
+  - atrophy of the corpus cavernosum
+  - atrophy of the corpus cavernosum
+  - balanitis
+  - balanitis
+  - breast cancer
+  - breast cancer
+  - breast cyst
+  - breast cyst
+  - breast infection (mastitis)
+  - breast infection (mastitis)
+  - bunion
+  - bunion
+  - callus
+  - callus
+  - cat scratch disease
+  - cat scratch disease
+  - cellulitis or abscess of mouth
+  - cellulitis or abscess of mouth
+  - chickenpox
+  - chickenpox
+  - chronic ulcer
+  - chronic ulcer
+  - cold sore
+  - cold sore
+  - contact dermatitis
+  - contact dermatitis
+  - decubitus ulcer
+  - decubitus ulcer
+  - deep vein thrombosis (dvt)
+  - deep vein thrombosis (dvt)
+  - dermatitis due to sun exposure
+  - dermatitis due to sun exposure
+  - drug reaction
+  - drug reaction
+  - dyshidrosis
+  - dyshidrosis
+  - eczema
+  - eczema
+  - envenomation from spider or animal bite
+  - envenomation from spider or animal bite
+  - female genitalia infection
+  - female genitalia infection
+  - fibroadenoma
+  - fibroadenoma
+  - fibrocystic breast disease
+  - fibrocystic breast disease
+  - food allergy
+  - food allergy
+  - fungal infection of the hair
+  - fungal infection of the hair
+  - fungal infection of the skin
+  - fungal infection of the skin
+  - genital herpes
+  - genital herpes
+  - hammer toe
+  - hammer toe
+  - hemangioma
+  - hemangioma
+  - hemochromatosis
+  - hemochromatosis
+  - hidradenitis suppurativa
+  - hidradenitis suppurativa
+  - hirsutism
+  - hirsutism
+  - impetigo
+  - impetigo
+  - infection of open wound
+  - infection of open wound
+  - ingrown toe nail
+  - ingrown toe nail
+  - insect bite
+  - insect bite
+  - intertrigo (skin condition)
+  - intertrigo (skin condition)
+  - itching of unknown cause
+  - itching of unknown cause
+  - lichen planus
+  - lichen planus
+  - lichen simplex
+  - lichen simplex
+  - lipoma
+  - lipoma
+  - lymphedema
+  - lymphedema
+  - male genitalia infection
+  - male genitalia infection
+  - mastectomy
+  - mastectomy
+  - melanoma
+  - melanoma
+  - molluscum contagiosum
+  - molluscum contagiosum
+  - neurofibromatosis
+  - neurofibromatosis
+  - onychomycosis
+  - onychomycosis
+  - open wound from surgical incision
+  - open wound from surgical incision
+  - open wound of the back
+  - open wound of the back
+  - open wound of the foot
+  - open wound of the foot
+  - open wound of the neck
+  - open wound of the neck
+  - oral leukoplakia
+  - oral leukoplakia
+  - osteochondroma
+  - osteochondroma
+  - osteomyelitis
+  - osteomyelitis
+  - parasitic disease
+  - parasitic disease
+  - paronychia
+  - paronychia
+  - pemphigus
+  - pemphigus
+  - peripheral arterial disease
+  - peripheral arterial disease
+  - perirectal infection
+  - perirectal infection
+  - pilonidal cyst
+  - pilonidal cyst
+  - pityriasis rosea
+  - pityriasis rosea
+  - postoperative infection
+  - postoperative infection
+  - psoriasis
+  - psoriasis
+  - pyogenic skin infection
+  - pyogenic skin infection
+  - rosacea
+  - rosacea
+  - scabies
+  - scabies
+  - scar
+  - scar
+  - scleroderma
+  - scleroderma
+  - sebaceous cyst
+  - sebaceous cyst
+  - seborrheic dermatitis
+  - seborrheic dermatitis
+  - seborrheic keratosis
+  - seborrheic keratosis
+  - shingles (herpes zoster)
+  - shingles (herpes zoster)
+  - skin cancer
+  - skin cancer
+  - skin disorder
+  - skin disorder
+  - skin pigmentation disorder
+  - skin pigmentation disorder
+  - skin polyp
+  - skin polyp
+  - soft tissue sarcoma
+  - soft tissue sarcoma
+  - spina bifida
+  - spina bifida
+  - syphilis
+  - syphilis
+  - tooth abscess
+  - tooth abscess
+  - varicose veins
+  - varicose veins
+  - vasculitis
+  - vasculitis
+  - venous insufficiency
+  - venous insufficiency
+  - viral exanthem
+  - viral exanthem
+  - viral warts
+  - viral warts
+
+----------------------------------------
+Community 6:
+  - acute glaucoma
+  - acute glaucoma
+  - amblyopia
+  - amblyopia
+  - aphakia
+  - aphakia
+  - astigmatism
+  - astigmatism
+  - bell palsy
+  - bell palsy
+  - blepharitis
+  - blepharitis
+  - blepharospasm
+  - blepharospasm
+  - cataract
+  - cataract
+  - central retinal artery or vein occlusion
+  - central retinal artery or vein occlusion
+  - chalazion
+  - chalazion
+  - chorioretinitis
+  - chorioretinitis
+  - chronic glaucoma
+  - chronic glaucoma
+  - conjunctivitis due to allergy
+  - conjunctivitis due to allergy
+  - conjunctivitis due to virus
+  - conjunctivitis due to virus
+  - cornea infection
+  - cornea infection
+  - corneal abrasion
+  - corneal abrasion
+  - corneal disorder
+  - corneal disorder
+  - cranial nerve palsy
+  - cranial nerve palsy
+  - cyst of the eyelid
+  - cyst of the eyelid
+  - diabetic retinopathy
+  - diabetic retinopathy
+  - dry eye of unknown cause
+  - dry eye of unknown cause
+  - ectropion
+  - ectropion
+  - endophthalmitis
+  - endophthalmitis
+  - ependymoma
+  - ependymoma
+  - eye alignment disorder
+  - eye alignment disorder
+  - floaters
+  - floaters
+  - foreign body in the eye
+  - foreign body in the eye
+  - fracture of the facial bones
+  - fracture of the facial bones
+  - fracture of the jaw
+  - fracture of the jaw
+  - glaucoma
+  - glaucoma
+  - hyperopia
+  - hyperopia
+  - iridocyclitis
+  - iridocyclitis
+  - macular degeneration
+  - macular degeneration
+  - migraine
+  - migraine
+  - myopia
+  - myopia
+  - open wound of the eye
+  - open wound of the eye
+  - optic neuritis
+  - optic neuritis
+  - orbital cellulitis
+  - orbital cellulitis
+  - pinguecula
+  - pinguecula
+  - pituitary adenoma
+  - pituitary adenoma
+  - pituitary disorder
+  - pituitary disorder
+  - presbyopia
+  - presbyopia
+  - pseudotumor cerebri
+  - pseudotumor cerebri
+  - pterygium
+  - pterygium
+  - retinal detachment
+  - retinal detachment
+  - retinopathy due to high blood pressure
+  - retinopathy due to high blood pressure
+  - rheumatic fever
+  - rheumatic fever
+  - scleritis
+  - scleritis
+  - sjogren syndrome
+  - sjogren syndrome
+  - stenosis of the tear duct
+  - stenosis of the tear duct
+  - stye
+  - stye
+  - subarachnoid hemorrhage
+  - subarachnoid hemorrhage
+  - subconjunctival hemorrhage
+  - subconjunctival hemorrhage
+  - toxoplasmosis
+  - toxoplasmosis
+  - trichiasis
+  - trichiasis
+  - trigeminal neuralgia
+  - trigeminal neuralgia
+  - uveitis
+  - uveitis
+  - vitreous degeneration
+  - vitreous degeneration
+  - vitreous hemorrhage
+  - vitreous hemorrhage
+
+----------------------------------------

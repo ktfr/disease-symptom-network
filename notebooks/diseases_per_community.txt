@@ -1,0 +1,785 @@
+Community 2:
+  - abdominal aortic aneurysm
+  - abdominal hernia
+  - acute fatty liver of pregnancy (aflp)
+  - acute kidney injury
+  - acute pancreatitis
+  - adrenal adenoma
+  - alcoholic liver disease
+  - anal fissure
+  - appendicitis
+  - ascending cholangitis
+  - benign kidney cyst
+  - benign vaginal discharge (leukorrhea)
+  - bladder disorder
+  - celiac disease
+  - cervical disorder
+  - cervicitis
+  - chlamydia
+  - cholecystitis
+  - choledocholithiasis
+  - chronic constipation
+  - chronic pancreatitis
+  - cirrhosis
+  - colonic polyp
+  - colorectal cancer
+  - crohn disease
+  - cystitis
+  - diabetic ketoacidosis
+  - diverticulitis
+  - diverticulosis
+  - drug withdrawal
+  - ectopic pregnancy
+  - endometriosis
+  - epididymitis
+  - esophageal cancer
+  - fluid overload
+  - foreign body in the gastrointestinal tract
+  - gallstone
+  - gas gangrene
+  - gastritis
+  - gastroduodenal ulcer
+  - gastrointestinal hemorrhage
+  - gastroparesis
+  - gonorrhea
+  - hematoma
+  - hemorrhoids
+  - hepatitis due to a toxin
+  - hiatal hernia
+  - hirschsprung disease
+  - hydatidiform mole
+  - hydronephrosis
+  - hyperemesis gravidarum
+  - hypokalemia
+  - hyponatremia
+  - hypovolemia
+  - idiopathic absence of menstruation
+  - idiopathic excessive menstruation
+  - idiopathic infrequent menstruation
+  - idiopathic irregular menstrual cycle
+  - idiopathic nonmenstrual bleeding
+  - idiopathic painful menstruation
+  - ileus
+  - indigestion
+  - induced abortion
+  - infectious gastroenteritis
+  - inguinal hernia
+  - injury to internal organ
+  - injury to the abdomen
+  - intestinal cancer
+  - intestinal disease
+  - intestinal malabsorption
+  - intestinal obstruction
+  - intussusception
+  - irritable bowel syndrome
+  - ischemia of the bowel
+  - kidney stone
+  - liver cancer
+  - liver disease
+  - missed abortion
+  - mittelschmerz
+  - nonalcoholic liver disease (nash)
+  - noninfectious gastroenteritis
+  - open wound of the abdomen
+  - ovarian cancer
+  - ovarian cyst
+  - ovarian torsion
+  - pain after an operation
+  - pancreatic cancer
+  - pelvic inflammatory disease
+  - peritonitis
+  - persistent vomiting of unknown cause
+  - pinworm infection
+  - poisoning due to antihypertensives
+  - polycystic kidney disease
+  - preeclampsia
+  - premature rupture of amniotic membrane
+  - problem during pregnancy
+  - prostatitis
+  - pyelonephritis
+  - rectal disorder
+  - scurvy
+  - spontaneous abortion
+  - stomach cancer
+  - subacute thyroiditis
+  - temporary or benign blood in urine
+  - testicular torsion
+  - threatened pregnancy
+  - trichomonas infection
+  - ulcerative colitis
+  - urethral disorder
+  - urethral valves
+  - urethritis
+  - urinary tract infection
+  - urinary tract obstruction
+  - uterine atony
+  - uterine fibroids
+  - vaginal cyst
+  - vaginal yeast infection
+  - vaginismus
+  - vaginitis
+  - viral hepatitis
+  - volvulus
+  - vulvodynia
+  - white blood cell disease
+  - yeast infection
+  - bladder cancer
+  - cryptorchidism
+  - hydrocele of the testicle
+  - kidney cancer
+  - meckel diverticulum
+  - phimosis
+  - stricture of the esophagus
+  - urethral stricture
+  - uterine cancer
+  - varicocele of the testicles
+  - dislocation of the foot
+  - dumping syndrome
+  - neonatal jaundice
+  - protein deficiency
+  - vesicoureteral reflux
+  - polycystic ovarian syndrome (pcos)
+  - premature ovarian failure
+  - atonic bladder
+  - benign prostatic hyperplasia (bph)
+  - foreign body in the vagina
+  - peyronie disease
+  - placental abruption
+  - vacterl syndrome
+  - female infertility of unknown cause
+  - vulvar disorder
+  - bladder obstruction
+  - erectile dysfunction
+  - overflow incontinence
+  - pelvic organ prolapse
+  - primary kidney disease
+  - prostate cancer
+  - spermatocele
+  - stress incontinence
+  - urge incontinence
+  - endometrial hyperplasia
+  - edward syndrome
+  - anal fistula
+  - diabetic kidney disease
+  - von willebrand disease
+  - endometrial cancer
+  - menopause
+  - cervical cancer
+  - carcinoid syndrome
+  - atrophic vaginitis
+  - hpv
+  - placenta previa
+  - gestational diabetes
+  - pregnancy
+
+Community 1:
+  - abscess of the lung
+  - acute bronchiolitis
+  - acute bronchitis
+  - acute bronchospasm
+  - acute respiratory distress syndrome (ards)
+  - amyloidosis
+  - anemia
+  - anemia due to chronic kidney disease
+  - anemia due to malignancy
+  - angina
+  - aortic valve disease
+  - arrhythmia
+  - aspergillosis
+  - asthma
+  - atelectasis
+  - atrial fibrillation
+  - atrial flutter
+  - cardiac arrest
+  - cardiomyopathy
+  - central atherosclerosis
+  - chronic kidney disease
+  - chronic obstructive pulmonary disease (copd)
+  - chronic rheumatic fever
+  - congenital heart defect
+  - coronary atherosclerosis
+  - croup
+  - emphysema
+  - empyema
+  - endocarditis
+  - esophagitis
+  - folate deficiency
+  - foreign body in the throat
+  - gastroesophageal reflux disease (gerd)
+  - glucocorticoid deficiency
+  - heart attack
+  - heart block
+  - heart failure
+  - hypercholesterolemia
+  - hyperkalemia
+  - hypernatremia
+  - hypertensive heart disease
+  - hypocalcemia
+  - interstitial lung disease
+  - ischemic heart disease
+  - kidney disease due to longstanding hypertension
+  - kidney failure
+  - lactose intolerance
+  - lung cancer
+  - lung contusion
+  - lymphadenitis
+  - magnesium deficiency
+  - malignant hypertension
+  - mitral valve disease
+  - myasthenia gravis
+  - myocarditis
+  - narcolepsy
+  - obstructive sleep apnea (osa)
+  - panic attack
+  - paroxysmal supraventricular tachycardia
+  - paroxysmal ventricular tachycardia
+  - pericarditis
+  - pleural effusion
+  - pneumoconiosis
+  - pneumonia
+  - pneumothorax
+  - poisoning due to antimicrobial drugs
+  - poisoning due to gas
+  - premature atrial contractions (pacs)
+  - premature ventricular contractions (pvcs)
+  - pulmonary congestion
+  - pulmonary embolism
+  - pulmonary eosinophilia
+  - pulmonary fibrosis
+  - pulmonary hypertension
+  - pulmonic valve disease
+  - sarcoidosis
+  - sepsis
+  - sick sinus syndrome
+  - sinus bradycardia
+  - smoking or tobacco addiction
+  - thoracic aortic aneurysm
+  - tietze syndrome
+  - tracheitis
+  - tuberculosis
+  - valley fever
+  - whooping cough
+  - flu
+  - foreign body in the nose
+  - lymphoma
+  - meningitis
+  - strep throat
+  - testicular disorder
+  - abscess of nose
+  - abscess of the pharynx
+  - achalasia
+  - acute otitis media
+  - acute sinusitis
+  - allergy to animals
+  - aphthous ulcer
+  - aplastic anemia
+  - cholesteatoma
+  - chronic otitis media
+  - chronic sinusitis
+  - common cold
+  - conjunctivitis
+  - conjunctivitis due to bacteria
+  - cystic fibrosis
+  - dengue fever
+  - deviated nasal septum
+  - diaper rash
+  - down syndrome
+  - ear drum damage
+  - ear wax impaction
+  - erythema multiforme
+  - eustachian tube dysfunction (ear disorder)
+  - friedrich ataxia
+  - g6pd enzyme deficiency
+  - gum disease
+  - head and neck cancer
+  - hemolytic anemia
+  - hemophilia
+  - herpangina
+  - histoplasmosis
+  - hyperhidrosis
+  - hyperosmotic hyperketotic state
+  - laryngitis
+  - leukemia
+  - lice
+  - lymphogranuloma venereum
+  - mastoiditis
+  - mononucleosis
+  - mucositis
+  - mumps
+  - muscular dystrophy
+  - nasal polyp
+  - neuropathy due to drugs
+  - nose disorder
+  - oral mucosal lesion
+  - oral thrush (yeast infection)
+  - otitis externa (swimmer's ear)
+  - otitis media
+  - peritonsillar abscess
+  - pharyngitis
+  - primary immunodeficiency
+  - pyloric stenosis
+  - salivary gland disorder
+  - scarlet fever
+  - seasonal allergies (hay fever)
+  - sensorineural hearing loss
+  - sialoadenitis
+  - spherocytosis
+  - teething syndrome
+  - tonsillar hypertrophy
+  - tonsillitis
+  - trichinosis
+  - typhoid fever
+  - vocal cord polyp
+  - wilson disease
+  - zenker diverticulum
+  - connective tissue disorder
+  - frostbite
+  - goiter
+  - granuloma inguinale
+  - hyperlipidemia
+  - open wound of the chest
+  - polymyalgia rheumatica
+  - thrombocytopenia
+  - thyroid cancer
+  - thyroid disease
+  - thyroid nodule
+  - diabetes
+  - hypothyroidism
+  - metabolic disorder
+  - obesity
+  - foreign body in the ear
+  - metastatic cancer
+  - open wound of the ear
+  - myelodysplastic syndrome
+  - hypergammaglobulinemia
+  - vitamin d deficiency
+
+Community 3:
+  - acute stress reaction
+  - anxiety
+  - concussion
+  - cysticercosis
+  - drug abuse (methamphetamine)
+  - drug reaction
+  - graves disease
+  - head injury
+  - heat exhaustion
+  - hepatic encephalopathy
+  - injury to the spinal cord
+  - normal pressure hydrocephalus
+  - pain disorder affecting the neck
+  - panic disorder
+  - premenstrual tension syndrome
+  - spina bifida
+  - syringomyelia
+  - vulvar cancer
+  - iron deficiency anemia
+  - neurofibromatosis
+  - omphalitis
+  - somatization disorder
+  - alcohol intoxication
+  - alcohol withdrawal
+  - benign paroxysmal positional vertical (bppv)
+  - carbon monoxide poisoning
+  - cerebral edema
+  - conversion disorder
+  - fracture of the skull
+  - headache after lumbar puncture
+  - hydrocephalus
+  - intracerebral hemorrhage
+  - intracranial hemorrhage
+  - labyrinthitis
+  - lyme disease
+  - malaria
+  - migraine
+  - poisoning due to analgesics
+  - subarachnoid hemorrhage
+  - subdural hemorrhage
+  - temporomandibular joint disorder
+  - alcohol abuse
+  - alzheimer disease
+  - asperger syndrome
+  - attention deficit hyperactivity disorder (adhd)
+  - autism
+  - bipolar disorder
+  - birth trauma
+  - conduct disorder
+  - cryptococcosis
+  - delirium
+  - dementia
+  - depression
+  - developmental disability
+  - dissociative disorder
+  - drug abuse
+  - drug abuse (cocaine)
+  - drug abuse (opioids)
+  - drug poisoning due to medication
+  - dysthymic disorder
+  - eating disorder
+  - epidural hemorrhage
+  - factitious disorder
+  - fetal alcohol syndrome
+  - hypoglycemia
+  - hypothermia
+  - impulse control disorder
+  - insulin overdose
+  - intracranial abscess
+  - lewy body dementia
+  - marijuana abuse
+  - meningioma
+  - moyamoya disease
+  - neurosis
+  - obsessive compulsive disorder (ocd)
+  - oppositional disorder
+  - personality disorder
+  - poisoning due to ethylene glycol
+  - poisoning due to opioids
+  - poisoning due to sedatives
+  - post-traumatic stress disorder (ptsd)
+  - postpartum depression
+  - psychotic disorder
+  - schizophrenia
+  - social phobia
+  - stroke
+  - substance-related mental disorder
+  - tic (movement) disorder
+  - tourette syndrome
+  - transient ischemic attack
+  - tuberous sclerosis
+  - wernicke korsakoff syndrome
+  - amyotrophic lateral sclerosis (als)
+  - autonomic nervous system disorder
+  - bell palsy
+  - blepharospasm
+  - brain cancer
+  - cranial nerve palsy
+  - encephalitis
+  - epilepsy
+  - extrapyramidal effect of drugs
+  - fracture of the facial bones
+  - hemiplegia
+  - high blood pressure
+  - hormone disorder
+  - hypertension of pregnancy
+  - hypertrophic obstructive cardiomyopathy (hocm)
+  - injury to the face
+  - jaw disorder
+  - meniere disease
+  - multiple sclerosis
+  - open wound of the head
+  - open wound of the nose
+  - optic neuritis
+  - orthostatic hypotension
+  - pinguecula
+  - pituitary adenoma
+  - pituitary disorder
+  - poisoning due to antipsychotics
+  - polycythemia vera
+  - pseudotumor cerebri
+  - restless leg syndrome
+  - rocky mountain spotted fever
+  - scleritis
+  - syphilis
+  - tension headache
+  - tinnitus of unknown cause
+  - tooth disorder
+  - torticollis
+  - trigeminal neuralgia
+  - vasculitis
+  - cushing syndrome
+  - hashimoto thyroiditis
+  - anemia of chronic disease
+  - diabetes insipidus
+  - galactorrhea of unknown cause
+  - otosclerosis
+  - poisoning due to antidepressants
+  - presbyacusis
+  - tricuspid valve disease
+  - turner syndrome
+  - parathyroid adenoma
+  - cerebral palsy
+  - toxic multinodular goiter
+  - adrenal cancer
+  - chronic inflammatory demyelinating polyneuropathy (cidp)
+  - conductive hearing loss
+  - esophageal varices
+  - essential tremor
+  - heat stroke
+  - hypercalcemia
+  - multiple myeloma
+  - parkinson disease
+  - pelvic fistula
+  - poisoning due to anticonvulsants
+  - primary thrombocythemia
+  - spinocerebellar ataxia
+  - syndrome of inappropriate secretion of adh (siadh)
+  - congenital malformation syndrome
+  - testicular cancer
+  - priapism
+  - adjustment reaction
+  - drug abuse (barbiturates)
+  - heart contusion
+  - huntington disease
+  - kaposi sarcoma
+  - myoclonus
+  - primary insomnia
+  - psychosexual disorder
+  - thalassemia
+  - vitamin b12 deficiency
+  - human immunodeficiency virus infection (hiv)
+
+Community 4:
+  - ankylosing spondylitis
+  - arthritis of the hip
+  - bone disorder
+  - brachial neuritis
+  - bursitis
+  - chronic back pain
+  - chronic knee pain
+  - chronic pain disorder
+  - complex regional pain syndrome
+  - deep vein thrombosis (dvt)
+  - degenerative disc disease
+  - dislocation of the shoulder
+  - dislocation of the vertebra
+  - fibromyalgia
+  - fracture of the arm
+  - fracture of the pelvis
+  - fracture of the rib
+  - fracture of the vertebra
+  - herniated disk
+  - injury to the arm
+  - injury to the shoulder
+  - injury to the trunk
+  - juvenile rheumatoid arthritis
+  - lumbago
+  - muscle spasm
+  - neuralgia
+  - osteoarthritis
+  - osteoporosis
+  - peripheral nerve disorder
+  - scoliosis
+  - sickle cell anemia
+  - sickle cell crisis
+  - spinal stenosis
+  - spondylitis
+  - spondylolisthesis
+  - spondylosis
+  - sprain or strain
+  - thrombophlebitis
+  - vertebrobasilar insufficiency
+  - adhesive capsulitis of the shoulder
+  - rheumatoid arthritis
+  - systemic lupus erythematosis (sle)
+  - varicose veins
+  - dislocation of the elbow
+  - septic arthritis
+  - rhabdomyolysis
+  - burn
+  - myositis
+  - thoracic outlet syndrome
+  - diabetic peripheral neuropathy
+  - ganglion cyst
+  - injury to the hand
+  - peripheral arterial disease
+  - dislocation of the ankle
+  - injury to the finger
+  - flat feet
+  - infection of open wound
+  - peripheral arterial embolism
+  - coagulation (bleeding) disorder
+  - bone cancer
+  - guillain barre syndrome
+  - dislocation of the hip
+  - fracture of the neck
+  - open wound of the shoulder
+  - sciatica
+  - open wound of the cheek
+  - open wound of the face
+  - de quervain disease
+  - dislocation of the wrist
+  - avascular necrosis
+  - carpal tunnel syndrome
+  - fracture of the hand
+  - fracture of the shoulder
+  - injury to the hip
+  - lateral epicondylitis (tennis elbow)
+  - lymphangitis
+  - mononeuritis
+  - nerve impingement near the shoulder
+  - open wound of the arm
+  - plantar fasciitis
+  - rotator cuff injury
+  - tendinitis
+  - chondromalacia of the patella
+  - fracture of the leg
+  - injury to the knee
+  - injury to the leg
+  - joint effusion
+  - dislocation of the finger
+  - fracture of the ankle
+  - fracture of the foot
+  - gout
+  - injury of the ankle
+  - bone spur of the calcaneous
+  - dislocation of the knee
+  - dislocation of the patella
+  - fracture of the patella
+  - hemarthrosis
+  - knee ligament or meniscus tear
+  - necrotizing fasciitis
+  - open wound of the knee
+  - osteochondrosis
+  - pseudohypoparathyroidism
+  - reactive arthritis
+  - sporotrichosis
+  - vitamin a deficiency
+  - crushing injury
+  - fracture of the finger
+  - raynaud disease
+  - trigger finger (finger disorder)
+  - open wound of the finger
+  - open wound of the hand
+  - open wound due to trauma
+
+Community 0:
+  - envenomation from spider or animal bite
+  - gynecomastia
+  - osteomyelitis
+  - parasitic disease
+  - postoperative infection
+  - shingles (herpes zoster)
+  - cat scratch disease
+  - hemochromatosis
+  - hidradenitis suppurativa
+  - lipoma
+  - open wound of the neck
+  - osteochondroma
+  - pilonidal cyst
+  - soft tissue sarcoma
+  - allergy
+  - balanitis
+  - breast infection (mastitis)
+  - cellulitis or abscess of mouth
+  - chickenpox
+  - cold sore
+  - eczema
+  - food allergy
+  - impetigo
+  - male genitalia infection
+  - paronychia
+  - viral exanthem
+  - melanoma
+  - lymphedema
+  - acanthosis nigricans
+  - acne
+  - actinic keratosis
+  - alopecia
+  - athlete's foot
+  - atrophic skin condition
+  - atrophy of the corpus cavernosum
+  - breast cyst
+  - bunion
+  - callus
+  - chronic ulcer
+  - contact dermatitis
+  - decubitus ulcer
+  - dermatitis due to sun exposure
+  - dyshidrosis
+  - female genitalia infection
+  - fungal infection of the hair
+  - fungal infection of the skin
+  - genital herpes
+  - hammer toe
+  - hemangioma
+  - hirsutism
+  - ingrown toe nail
+  - insect bite
+  - intertrigo (skin condition)
+  - lichen planus
+  - lichen simplex
+  - molluscum contagiosum
+  - onychomycosis
+  - open wound from surgical incision
+  - open wound of the back
+  - open wound of the foot
+  - pemphigus
+  - perirectal infection
+  - psoriasis
+  - pyogenic skin infection
+  - rosacea
+  - scar
+  - scleroderma
+  - sebaceous cyst
+  - seborrheic dermatitis
+  - seborrheic keratosis
+  - skin cancer
+  - skin disorder
+  - skin pigmentation disorder
+  - skin polyp
+  - venous insufficiency
+  - viral warts
+  - acariasis
+  - itching of unknown cause
+  - pityriasis rosea
+  - scabies
+  - dental caries
+  - mastectomy
+  - oral leukoplakia
+  - tooth abscess
+  - open wound of the mouth
+  - broken tooth
+  - open wound of the lip
+  - open wound of the jaw
+  - fibroadenoma
+  - breast cancer
+  - fibrocystic breast disease
+
+Community 5:
+  - sjogren syndrome
+  - conjunctivitis due to allergy
+  - conjunctivitis due to virus
+  - orbital cellulitis
+  - stenosis of the tear duct
+  - glaucoma
+  - ependymoma
+  - iridocyclitis
+  - subconjunctival hemorrhage
+  - chalazion
+  - cyst of the eyelid
+  - pterygium
+  - toxoplasmosis
+  - trichiasis
+  - eye alignment disorder
+  - stye
+  - acute glaucoma
+  - amblyopia
+  - aphakia
+  - astigmatism
+  - blepharitis
+  - cataract
+  - central retinal artery or vein occlusion
+  - chorioretinitis
+  - chronic glaucoma
+  - cornea infection
+  - corneal abrasion
+  - corneal disorder
+  - diabetic retinopathy
+  - dry eye of unknown cause
+  - ectropion
+  - endophthalmitis
+  - floaters
+  - foreign body in the eye
+  - fracture of the jaw
+  - hyperopia
+  - macular degeneration
+  - myopia
+  - open wound of the eye
+  - presbyopia
+  - retinal detachment
+  - retinopathy due to high blood pressure
+  - uveitis
+  - vitreous degeneration
+  - vitreous hemorrhage
+  - rheumatic fever
+

@@ -2,14 +2,14 @@ Id,Label,Community
 0,abdominal aortic aneurysm,0
 1,abdominal hernia,0
 2,abscess of the lung,1
-3,acute bronchiolitis,1
-4,acute bronchitis,1
-5,acute bronchospasm,1
+3,acute bronchiolitis,2
+4,acute bronchitis,2
+5,acute bronchospasm,2
 6,acute fatty liver of pregnancy (aflp),0
 7,acute kidney injury,0
 8,acute pancreatitis,0
 9,acute respiratory distress syndrome (ards),1
-10,acute stress reaction,3
+10,acute stress reaction,5
 11,adrenal adenoma,0
 12,alcoholic liver disease,0
 13,amyloidosis,1
@@ -19,7 +19,7 @@ Id,Label,Community
 17,anemia due to malignancy,1
 18,angina,1
 19,ankylosing spondylitis,4
-20,anxiety,3
+20,anxiety,5
 21,aortic valve disease,1
 22,appendicitis,0
 23,arrhythmia,1
@@ -49,7 +49,7 @@ Id,Label,Community
 47,chronic constipation,0
 48,chronic kidney disease,1
 49,chronic knee pain,4
-50,chronic obstructive pulmonary disease (copd),1
+50,chronic obstructive pulmonary disease (copd),2
 51,chronic pain disorder,4
 52,chronic pancreatitis,0
 53,chronic rheumatic fever,1
@@ -57,12 +57,12 @@ Id,Label,Community
 55,colonic polyp,0
 56,colorectal cancer,0
 57,complex regional pain syndrome,4
-58,concussion,3
+58,concussion,5
 59,congenital heart defect,1
 60,coronary atherosclerosis,1
 61,crohn disease,0
-62,croup,1
-63,cysticercosis,3
+62,croup,2
+63,cysticercosis,1
 64,cystitis,0
 65,deep vein thrombosis (dvt),4
 66,degenerative disc disease,4
@@ -71,15 +71,15 @@ Id,Label,Community
 69,dislocation of the vertebra,4
 70,diverticulitis,0
 71,diverticulosis,0
-72,drug abuse (methamphetamine),3
-73,drug reaction,3
+72,drug abuse (methamphetamine),5
+73,drug reaction,6
 74,drug withdrawal,0
 75,ectopic pregnancy,0
 76,emphysema,1
 77,empyema,1
 78,endocarditis,1
 79,endometriosis,0
-80,envenomation from spider or animal bite,2
+80,envenomation from spider or animal bite,6
 81,epididymitis,0
 82,esophageal cancer,0
 83,esophagitis,0
@@ -87,7 +87,7 @@ Id,Label,Community
 85,fluid overload,0
 86,folate deficiency,1
 87,foreign body in the gastrointestinal tract,0
-88,foreign body in the throat,1
+88,foreign body in the throat,2
 89,fracture of the arm,4
 90,fracture of the pelvis,4
 91,fracture of the rib,1
@@ -101,9 +101,9 @@ Id,Label,Community
 99,gastroparesis,0
 100,glucocorticoid deficiency,1
 101,gonorrhea,0
-102,graves disease,3
-103,gynecomastia,2
-104,head injury,3
+102,graves disease,1
+103,gynecomastia,6
+104,head injury,5
 105,heart attack,1
 106,heart block,1
 107,heart failure,1
@@ -141,9 +141,9 @@ Id,Label,Community
 139,injury to the abdomen,0
 140,injury to the arm,4
 141,injury to the shoulder,4
-142,injury to the spinal cord,3
+142,injury to the spinal cord,4
 143,injury to the trunk,4
-144,interstitial lung disease,1
+144,interstitial lung disease,2
 145,intestinal cancer,0
 146,intestinal disease,0
 147,intestinal malabsorption,0
@@ -162,7 +162,7 @@ Id,Label,Community
 160,lumbago,4
 161,lung cancer,1
 162,lung contusion,1
-163,lymphadenitis,1
+163,lymphadenitis,2
 164,magnesium deficiency,1
 165,malignant hypertension,1
 166,missed abortion,0
@@ -175,21 +175,21 @@ Id,Label,Community
 173,neuralgia,4
 174,nonalcoholic liver disease (nash),0
 175,noninfectious gastroenteritis,0
-176,normal pressure hydrocephalus,3
+176,normal pressure hydrocephalus,5
 177,obstructive sleep apnea (osa),1
 178,open wound of the abdomen,0
 179,osteoarthritis,4
-180,osteomyelitis,2
+180,osteomyelitis,6
 181,osteoporosis,4
 182,ovarian cancer,0
 183,ovarian cyst,0
 184,ovarian torsion,0
 185,pain after an operation,0
-186,pain disorder affecting the neck,3
+186,pain disorder affecting the neck,4
 187,pancreatic cancer,0
 188,panic attack,1
-189,panic disorder,3
-190,parasitic disease,0
+189,panic disorder,5
+190,parasitic disease,6
 191,paroxysmal supraventricular tachycardia,1
 192,paroxysmal ventricular tachycardia,1
 193,pelvic inflammatory disease,0
@@ -200,18 +200,18 @@ Id,Label,Community
 198,pinworm infection,0
 199,pleural effusion,1
 200,pneumoconiosis,1
-201,pneumonia,1
+201,pneumonia,2
 202,pneumothorax,1
 203,poisoning due to antihypertensives,0
 204,poisoning due to antimicrobial drugs,1
 205,poisoning due to gas,1
 206,polycystic kidney disease,0
-207,postoperative infection,2
+207,postoperative infection,6
 208,preeclampsia,0
 209,premature atrial contractions (pacs),1
 210,premature rupture of amniotic membrane,0
 211,premature ventricular contractions (pvcs),1
-212,premenstrual tension syndrome,3
+212,premenstrual tension syndrome,5
 213,problem during pregnancy,0
 214,prostatitis,0
 215,pulmonary congestion,1
@@ -226,13 +226,13 @@ Id,Label,Community
 224,scoliosis,4
 225,scurvy,0
 226,sepsis,0
-227,shingles (herpes zoster),2
+227,shingles (herpes zoster),6
 228,sick sinus syndrome,1
 229,sickle cell anemia,4
 230,sickle cell crisis,4
 231,sinus bradycardia,1
 232,smoking or tobacco addiction,1
-233,spina bifida,3
+233,spina bifida,6
 234,spinal stenosis,4
 235,spondylitis,4
 236,spondylolisthesis,4
@@ -241,14 +241,14 @@ Id,Label,Community
 239,sprain or strain,4
 240,stomach cancer,0
 241,subacute thyroiditis,0
-242,syringomyelia,3
+242,syringomyelia,4
 243,temporary or benign blood in urine,0
 244,testicular torsion,0
 245,thoracic aortic aneurysm,1
 246,threatened pregnancy,0
 247,thrombophlebitis,4
 248,tietze syndrome,1
-249,tracheitis,1
+249,tracheitis,2
 250,trichomonas infection,0
 251,tuberculosis,1
 252,ulcerative colitis,0
@@ -267,37 +267,37 @@ Id,Label,Community
 265,vertebrobasilar insufficiency,4
 266,viral hepatitis,0
 267,volvulus,0
-268,vulvar cancer,3
+268,vulvar cancer,5
 269,vulvodynia,0
 270,white blood cell disease,0
-271,whooping cough,1
+271,whooping cough,2
 272,yeast infection,0
 273,adhesive capsulitis of the shoulder,4
 274,bladder cancer,0
-275,cat scratch disease,2
+275,cat scratch disease,6
 276,cryptorchidism,0
-277,flu,1
-278,foreign body in the nose,1
-279,hemochromatosis,2
-280,hidradenitis suppurativa,2
+277,flu,2
+278,foreign body in the nose,2
+279,hemochromatosis,6
+280,hidradenitis suppurativa,6
 281,hydrocele of the testicle,0
 282,iron deficiency anemia,1
 283,kidney cancer,0
-284,lipoma,2
+284,lipoma,6
 285,lymphoma,1
 286,meckel diverticulum,0
-287,meningitis,1
-288,neurofibromatosis,3
-289,omphalitis,3
-290,open wound of the neck,2
-291,osteochondroma,2
+287,meningitis,2
+288,neurofibromatosis,6
+289,omphalitis,5
+290,open wound of the neck,6
+291,osteochondroma,6
 292,phimosis,0
-293,pilonidal cyst,2
+293,pilonidal cyst,6
 294,rheumatoid arthritis,4
-295,sjogren syndrome,5
-296,soft tissue sarcoma,2
-297,somatization disorder,3
-298,strep throat,1
+295,sjogren syndrome,3
+296,soft tissue sarcoma,6
+297,somatization disorder,5
+298,strep throat,2
 299,stricture of the esophagus,1
 300,systemic lupus erythematosis (sle),4
 301,testicular disorder,1
@@ -305,408 +305,408 @@ Id,Label,Community
 303,uterine cancer,0
 304,varicocele of the testicles,0
 305,varicose veins,4
-306,abscess of nose,1
-307,abscess of the pharynx,1
+306,abscess of nose,2
+307,abscess of the pharynx,2
 308,achalasia,1
-309,acute otitis media,1
-310,acute sinusitis,1
-311,alcohol intoxication,3
-312,alcohol withdrawal,3
-313,allergy,2
-314,allergy to animals,1
-315,aphthous ulcer,1
+309,acute otitis media,2
+310,acute sinusitis,2
+311,alcohol intoxication,5
+312,alcohol withdrawal,5
+313,allergy,6
+314,allergy to animals,2
+315,aphthous ulcer,2
 316,aplastic anemia,1
-317,balanitis,2
-318,benign paroxysmal positional vertical (bppv),3
-319,breast infection (mastitis),2
-320,carbon monoxide poisoning,3
-321,cellulitis or abscess of mouth,2
-322,cerebral edema,3
-323,chickenpox,2
-324,cholesteatoma,1
-325,chronic otitis media,1
-326,chronic sinusitis,1
-327,cold sore,2
-328,common cold,1
-329,conjunctivitis,1
-330,conjunctivitis due to allergy,5
-331,conjunctivitis due to bacteria,1
-332,conjunctivitis due to virus,5
-333,conversion disorder,3
-334,cystic fibrosis,1
-335,dengue fever,1
-336,deviated nasal septum,1
-337,diaper rash,1
+317,balanitis,6
+318,benign paroxysmal positional vertical (bppv),5
+319,breast infection (mastitis),6
+320,carbon monoxide poisoning,5
+321,cellulitis or abscess of mouth,6
+322,cerebral edema,5
+323,chickenpox,6
+324,cholesteatoma,2
+325,chronic otitis media,2
+326,chronic sinusitis,2
+327,cold sore,6
+328,common cold,2
+329,conjunctivitis,2
+330,conjunctivitis due to allergy,3
+331,conjunctivitis due to bacteria,2
+332,conjunctivitis due to virus,3
+333,conversion disorder,5
+334,cystic fibrosis,2
+335,dengue fever,2
+336,deviated nasal septum,2
+337,diaper rash,2
 338,dislocation of the elbow,4
 339,dislocation of the foot,0
-340,down syndrome,1
+340,down syndrome,2
 341,dumping syndrome,0
-342,ear drum damage,1
-343,ear wax impaction,1
-344,eczema,2
-345,erythema multiforme,1
-346,eustachian tube dysfunction (ear disorder),1
-347,food allergy,2
-348,fracture of the skull,3
-349,friedrich ataxia,1
-350,g6pd enzyme deficiency,1
-351,gum disease,1
-352,head and neck cancer,1
-353,headache after lumbar puncture,3
-354,hemolytic anemia,1
-355,hemophilia,1
-356,herpangina,1
-357,histoplasmosis,1
-358,hydrocephalus,3
-359,hyperhidrosis,1
-360,hyperosmotic hyperketotic state,1
-361,impetigo,2
-362,intracerebral hemorrhage,3
-363,intracranial hemorrhage,3
-364,labyrinthitis,3
-365,laryngitis,1
-366,leukemia,1
-367,lice,1
-368,lyme disease,3
-369,lymphogranuloma venereum,1
-370,malaria,3
-371,male genitalia infection,2
-372,mastoiditis,1
-373,migraine,3
-374,mononucleosis,1
-375,mucositis,1
-376,mumps,1
-377,muscular dystrophy,1
-378,nasal polyp,1
-379,neonatal jaundice,3
-380,neuropathy due to drugs,1
-381,nose disorder,1
-382,oral mucosal lesion,1
-383,oral thrush (yeast infection),1
-384,orbital cellulitis,5
-385,otitis externa (swimmer's ear),1
-386,otitis media,1
-387,paronychia,2
-388,peritonsillar abscess,1
-389,pharyngitis,1
-390,poisoning due to analgesics,3
-391,primary immunodeficiency,1
+342,ear drum damage,2
+343,ear wax impaction,2
+344,eczema,6
+345,erythema multiforme,2
+346,eustachian tube dysfunction (ear disorder),2
+347,food allergy,6
+348,fracture of the skull,5
+349,friedrich ataxia,2
+350,g6pd enzyme deficiency,2
+351,gum disease,2
+352,head and neck cancer,2
+353,headache after lumbar puncture,5
+354,hemolytic anemia,2
+355,hemophilia,2
+356,herpangina,2
+357,histoplasmosis,2
+358,hydrocephalus,5
+359,hyperhidrosis,2
+360,hyperosmotic hyperketotic state,2
+361,impetigo,6
+362,intracerebral hemorrhage,5
+363,intracranial hemorrhage,5
+364,labyrinthitis,5
+365,laryngitis,2
+366,leukemia,2
+367,lice,2
+368,lyme disease,5
+369,lymphogranuloma venereum,2
+370,malaria,2
+371,male genitalia infection,6
+372,mastoiditis,2
+373,migraine,5
+374,mononucleosis,2
+375,mucositis,2
+376,mumps,2
+377,muscular dystrophy,2
+378,nasal polyp,2
+379,neonatal jaundice,5
+380,neuropathy due to drugs,2
+381,nose disorder,2
+382,oral mucosal lesion,2
+383,oral thrush (yeast infection),2
+384,orbital cellulitis,3
+385,otitis externa (swimmer's ear),2
+386,otitis media,2
+387,paronychia,6
+388,peritonsillar abscess,2
+389,pharyngitis,2
+390,poisoning due to analgesics,5
+391,primary immunodeficiency,2
 392,protein deficiency,0
-393,pyloric stenosis,1
-394,salivary gland disorder,1
-395,scarlet fever,1
-396,seasonal allergies (hay fever),1
-397,sensorineural hearing loss,1
+393,pyloric stenosis,2
+394,salivary gland disorder,2
+395,scarlet fever,2
+396,seasonal allergies (hay fever),2
+397,sensorineural hearing loss,2
 398,septic arthritis,4
-399,sialoadenitis,1
-400,spherocytosis,1
-401,stenosis of the tear duct,5
-402,subarachnoid hemorrhage,3
-403,subdural hemorrhage,3
-404,teething syndrome,1
-405,temporomandibular joint disorder,1
-406,tonsillar hypertrophy,1
-407,tonsillitis,1
-408,trichinosis,1
-409,typhoid fever,1
+399,sialoadenitis,2
+400,spherocytosis,2
+401,stenosis of the tear duct,3
+402,subarachnoid hemorrhage,5
+403,subdural hemorrhage,5
+404,teething syndrome,2
+405,temporomandibular joint disorder,2
+406,tonsillar hypertrophy,2
+407,tonsillitis,2
+408,trichinosis,2
+409,typhoid fever,2
 410,vesicoureteral reflux,0
-411,viral exanthem,1
-412,vocal cord polyp,1
-413,wilson disease,1
+411,viral exanthem,6
+412,vocal cord polyp,2
+413,wilson disease,2
 414,zenker diverticulum,1
-415,alcohol abuse,3
-416,alzheimer disease,3
-417,asperger syndrome,3
-418,attention deficit hyperactivity disorder (adhd),3
-419,autism,3
-420,bipolar disorder,3
-421,birth trauma,3
-422,conduct disorder,3
-423,cryptococcosis,3
-424,delirium,3
-425,dementia,3
-426,depression,3
-427,developmental disability,3
-428,dissociative disorder,3
-429,drug abuse,3
-430,drug abuse (cocaine),3
-431,drug abuse (opioids),3
-432,drug poisoning due to medication,3
-433,dysthymic disorder,3
-434,eating disorder,3
-435,epidural hemorrhage,3
-436,factitious disorder,3
-437,fetal alcohol syndrome,3
-438,glaucoma,5
-439,hypoglycemia,3
-440,hypothermia,3
-441,impulse control disorder,3
-442,insulin overdose,3
-443,intracranial abscess,3
-444,lewy body dementia,3
-445,marijuana abuse,3
-446,melanoma,2
-447,meningioma,3
-448,moyamoya disease,3
-449,neurosis,3
-450,obsessive compulsive disorder (ocd),3
-451,oppositional disorder,3
-452,personality disorder,3
-453,poisoning due to ethylene glycol,3
-454,poisoning due to opioids,3
-455,poisoning due to sedatives,3
-456,post-traumatic stress disorder (ptsd),3
-457,postpartum depression,3
-458,psychotic disorder,3
+415,alcohol abuse,5
+416,alzheimer disease,5
+417,asperger syndrome,5
+418,attention deficit hyperactivity disorder (adhd),5
+419,autism,5
+420,bipolar disorder,5
+421,birth trauma,5
+422,conduct disorder,5
+423,cryptococcosis,5
+424,delirium,5
+425,dementia,5
+426,depression,5
+427,developmental disability,5
+428,dissociative disorder,5
+429,drug abuse,5
+430,drug abuse (cocaine),5
+431,drug abuse (opioids),5
+432,drug poisoning due to medication,5
+433,dysthymic disorder,5
+434,eating disorder,5
+435,epidural hemorrhage,5
+436,factitious disorder,5
+437,fetal alcohol syndrome,5
+438,glaucoma,3
+439,hypoglycemia,5
+440,hypothermia,5
+441,impulse control disorder,5
+442,insulin overdose,5
+443,intracranial abscess,5
+444,lewy body dementia,5
+445,marijuana abuse,5
+446,melanoma,6
+447,meningioma,5
+448,moyamoya disease,5
+449,neurosis,5
+450,obsessive compulsive disorder (ocd),5
+451,oppositional disorder,5
+452,personality disorder,5
+453,poisoning due to ethylene glycol,5
+454,poisoning due to opioids,5
+455,poisoning due to sedatives,5
+456,post-traumatic stress disorder (ptsd),5
+457,postpartum depression,5
+458,psychotic disorder,5
 459,rhabdomyolysis,4
-460,schizophrenia,3
-461,social phobia,3
-462,stroke,3
-463,substance-related mental disorder,3
-464,tic (movement) disorder,3
-465,tourette syndrome,3
-466,transient ischemic attack,3
-467,tuberous sclerosis,3
-468,wernicke korsakoff syndrome,3
-469,amyotrophic lateral sclerosis (als),3
-470,autonomic nervous system disorder,3
+460,schizophrenia,5
+461,social phobia,5
+462,stroke,5
+463,substance-related mental disorder,5
+464,tic (movement) disorder,5
+465,tourette syndrome,5
+466,transient ischemic attack,5
+467,tuberous sclerosis,5
+468,wernicke korsakoff syndrome,5
+469,amyotrophic lateral sclerosis (als),5
+470,autonomic nervous system disorder,5
 471,bell palsy,3
 472,blepharospasm,3
-473,brain cancer,3
+473,brain cancer,5
 474,burn,4
-475,connective tissue disorder,1
+475,connective tissue disorder,2
 476,cranial nerve palsy,3
-477,encephalitis,3
-478,ependymoma,5
-479,epilepsy,3
-480,extrapyramidal effect of drugs,3
+477,encephalitis,5
+478,ependymoma,3
+479,epilepsy,5
+480,extrapyramidal effect of drugs,5
 481,fracture of the facial bones,3
 482,frostbite,1
 483,goiter,1
 484,granuloma inguinale,1
-485,hemiplegia,3
-486,high blood pressure,3
-487,hormone disorder,3
+485,hemiplegia,5
+486,high blood pressure,1
+487,hormone disorder,5
 488,hyperlipidemia,1
-489,hypertension of pregnancy,3
-490,hypertrophic obstructive cardiomyopathy (hocm),3
-491,injury to the face,3
-492,iridocyclitis,5
-493,jaw disorder,3
-494,lymphedema,2
-495,meniere disease,3
-496,multiple sclerosis,3
+489,hypertension of pregnancy,0
+490,hypertrophic obstructive cardiomyopathy (hocm),5
+491,injury to the face,2
+492,iridocyclitis,3
+493,jaw disorder,2
+494,lymphedema,6
+495,meniere disease,5
+496,multiple sclerosis,5
 497,myositis,4
 498,open wound of the chest,1
-499,open wound of the head,3
-500,open wound of the nose,3
+499,open wound of the head,5
+500,open wound of the nose,2
 501,optic neuritis,3
-502,orthostatic hypotension,3
+502,orthostatic hypotension,1
 503,pinguecula,3
 504,pituitary adenoma,3
 505,pituitary disorder,3
-506,poisoning due to antipsychotics,3
-507,polycythemia vera,3
+506,poisoning due to antipsychotics,5
+507,polycythemia vera,5
 508,polymyalgia rheumatica,1
 509,pseudotumor cerebri,3
-510,restless leg syndrome,3
-511,rocky mountain spotted fever,3
+510,restless leg syndrome,5
+511,rocky mountain spotted fever,4
 512,scleritis,3
-513,subconjunctival hemorrhage,5
-514,syphilis,3
-515,tension headache,3
+513,subconjunctival hemorrhage,3
+514,syphilis,6
+515,tension headache,5
 516,thoracic outlet syndrome,4
 517,thrombocytopenia,1
 518,thyroid cancer,1
-519,thyroid disease,1
-520,thyroid nodule,1
-521,tinnitus of unknown cause,3
-522,tooth disorder,3
-523,torticollis,3
-524,trigeminal neuralgia,3
-525,vasculitis,3
-526,acanthosis nigricans,2
-527,acne,2
-528,actinic keratosis,2
-529,alopecia,2
-530,athlete's foot,2
-531,atrophic skin condition,2
-532,atrophy of the corpus cavernosum,2
-533,breast cyst,2
-534,bunion,2
-535,callus,2
-536,chalazion,5
-537,chronic ulcer,2
-538,contact dermatitis,2
-539,cushing syndrome,3
-540,cyst of the eyelid,5
-541,decubitus ulcer,2
-542,dermatitis due to sun exposure,2
+519,thyroid disease,2
+520,thyroid nodule,2
+521,tinnitus of unknown cause,5
+522,tooth disorder,2
+523,torticollis,4
+524,trigeminal neuralgia,5
+525,vasculitis,6
+526,acanthosis nigricans,6
+527,acne,6
+528,actinic keratosis,6
+529,alopecia,6
+530,athlete's foot,6
+531,atrophic skin condition,6
+532,atrophy of the corpus cavernosum,6
+533,breast cyst,6
+534,bunion,6
+535,callus,6
+536,chalazion,3
+537,chronic ulcer,6
+538,contact dermatitis,6
+539,cushing syndrome,5
+540,cyst of the eyelid,3
+541,decubitus ulcer,6
+542,dermatitis due to sun exposure,6
 543,diabetes,1
 544,diabetic peripheral neuropathy,4
-545,dyshidrosis,2
-546,female genitalia infection,2
-547,fungal infection of the hair,2
-548,fungal infection of the skin,2
+545,dyshidrosis,6
+546,female genitalia infection,6
+547,fungal infection of the hair,6
+548,fungal infection of the skin,6
 549,ganglion cyst,4
-550,genital herpes,2
-551,hammer toe,2
-552,hashimoto thyroiditis,3
-553,hemangioma,2
-554,hirsutism,2
+550,genital herpes,6
+551,hammer toe,6
+552,hashimoto thyroiditis,5
+553,hemangioma,6
+554,hirsutism,6
 555,hypothyroidism,1
-556,ingrown toe nail,2
+556,ingrown toe nail,6
 557,injury to the hand,4
-558,insect bite,2
-559,intertrigo (skin condition),2
-560,lichen planus,2
-561,lichen simplex,2
+558,insect bite,6
+559,intertrigo (skin condition),6
+560,lichen planus,6
+561,lichen simplex,6
 562,metabolic disorder,1
-563,molluscum contagiosum,2
+563,molluscum contagiosum,6
 564,obesity,1
-565,onychomycosis,2
-566,open wound from surgical incision,2
-567,open wound of the back,2
-568,open wound of the foot,2
-569,pemphigus,2
+565,onychomycosis,6
+566,open wound from surgical incision,6
+567,open wound of the back,6
+568,open wound of the foot,6
+569,pemphigus,6
 570,peripheral arterial disease,4
-571,perirectal infection,2
+571,perirectal infection,6
 572,polycystic ovarian syndrome (pcos),0
 573,premature ovarian failure,0
-574,psoriasis,2
-575,pterygium,5
-576,pyogenic skin infection,2
-577,rosacea,2
-578,scar,2
-579,scleroderma,2
-580,sebaceous cyst,2
-581,seborrheic dermatitis,2
-582,seborrheic keratosis,2
-583,skin cancer,2
-584,skin disorder,2
-585,skin pigmentation disorder,2
-586,skin polyp,2
-587,venous insufficiency,2
-588,viral warts,2
-589,acariasis,2
-590,anemia of chronic disease,3
+574,psoriasis,6
+575,pterygium,3
+576,pyogenic skin infection,6
+577,rosacea,6
+578,scar,6
+579,scleroderma,6
+580,sebaceous cyst,6
+581,seborrheic dermatitis,6
+582,seborrheic keratosis,6
+583,skin cancer,6
+584,skin disorder,6
+585,skin pigmentation disorder,6
+586,skin polyp,6
+587,venous insufficiency,6
+588,viral warts,6
+589,acariasis,6
+590,anemia of chronic disease,5
 591,atonic bladder,0
 592,benign prostatic hyperplasia (bph),0
-593,diabetes insipidus,3
+593,diabetes insipidus,5
 594,dislocation of the ankle,4
 595,foreign body in the vagina,0
-596,galactorrhea of unknown cause,3
+596,galactorrhea of unknown cause,5
 597,injury to the finger,4
-598,itching of unknown cause,2
-599,otosclerosis,3
-600,peyronie disease,3
-601,pityriasis rosea,2
+598,itching of unknown cause,6
+599,otosclerosis,5
+600,peyronie disease,5
+601,pityriasis rosea,6
 602,placental abruption,0
-603,poisoning due to antidepressants,3
-604,presbyacusis,3
-605,scabies,2
-606,toxoplasmosis,5
-607,trichiasis,5
-608,tricuspid valve disease,3
-609,turner syndrome,3
+603,poisoning due to antidepressants,5
+604,presbyacusis,5
+605,scabies,6
+606,toxoplasmosis,3
+607,trichiasis,3
+608,tricuspid valve disease,5
+609,turner syndrome,5
 610,vacterl syndrome,0
-611,foreign body in the ear,1
-612,parathyroid adenoma,3
+611,foreign body in the ear,2
+612,parathyroid adenoma,5
 613,dental caries,2
-614,eye alignment disorder,5
+614,eye alignment disorder,3
 615,female infertility of unknown cause,0
 616,flat feet,4
 617,infection of open wound,4
-618,mastectomy,2
-619,oral leukoplakia,2
+618,mastectomy,6
+619,oral leukoplakia,6
 620,peripheral arterial embolism,4
-621,stye,5
-622,tooth abscess,2
+621,stye,3
+622,tooth abscess,6
 623,vulvar disorder,0
 624,metastatic cancer,1
-625,acute glaucoma,5
-626,amblyopia,5
-627,aphakia,5
-628,astigmatism,5
-629,blepharitis,5
-630,cataract,5
-631,central retinal artery or vein occlusion,5
-632,cerebral palsy,3
-633,chorioretinitis,5
-634,chronic glaucoma,5
+625,acute glaucoma,3
+626,amblyopia,3
+627,aphakia,3
+628,astigmatism,3
+629,blepharitis,3
+630,cataract,3
+631,central retinal artery or vein occlusion,3
+632,cerebral palsy,5
+633,chorioretinitis,3
+634,chronic glaucoma,3
 635,coagulation (bleeding) disorder,4
-636,cornea infection,5
-637,corneal abrasion,5
-638,corneal disorder,5
-639,diabetic retinopathy,5
-640,dry eye of unknown cause,5
-641,ectropion,5
-642,endophthalmitis,5
-643,floaters,5
-644,foreign body in the eye,5
-645,fracture of the jaw,5
-646,hyperopia,5
-647,macular degeneration,5
-648,myopia,5
-649,open wound of the eye,5
-650,presbyopia,5
-651,retinal detachment,5
-652,retinopathy due to high blood pressure,5
+636,cornea infection,3
+637,corneal abrasion,3
+638,corneal disorder,3
+639,diabetic retinopathy,3
+640,dry eye of unknown cause,3
+641,ectropion,3
+642,endophthalmitis,3
+643,floaters,3
+644,foreign body in the eye,3
+645,fracture of the jaw,3
+646,hyperopia,3
+647,macular degeneration,3
+648,myopia,3
+649,open wound of the eye,3
+650,presbyopia,3
+651,retinal detachment,3
+652,retinopathy due to high blood pressure,3
 653,toxic multinodular goiter,1
-654,uveitis,5
-655,vitreous degeneration,5
-656,vitreous hemorrhage,5
-657,adrenal cancer,3
+654,uveitis,3
+655,vitreous degeneration,3
+656,vitreous hemorrhage,3
+657,adrenal cancer,5
 658,bladder obstruction,0
 659,bone cancer,4
-660,chronic inflammatory demyelinating polyneuropathy (cidp),3
-661,conductive hearing loss,3
+660,chronic inflammatory demyelinating polyneuropathy (cidp),5
+661,conductive hearing loss,5
 662,erectile dysfunction,0
-663,esophageal varices,3
-664,essential tremor,3
+663,esophageal varices,5
+664,essential tremor,5
 665,guillain barre syndrome,4
-666,heat stroke,3
-667,hypercalcemia,3
+666,heat stroke,5
+667,hypercalcemia,5
 668,multiple myeloma,1
 669,open wound of the mouth,2
 670,overflow incontinence,0
-671,parkinson disease,3
-672,pelvic fistula,3
+671,parkinson disease,5
+672,pelvic fistula,5
 673,pelvic organ prolapse,0
-674,poisoning due to anticonvulsants,3
+674,poisoning due to anticonvulsants,5
 675,primary kidney disease,0
 676,primary thrombocythemia,1
 677,prostate cancer,0
 678,spermatocele,0
-679,spinocerebellar ataxia,3
+679,spinocerebellar ataxia,5
 680,stress incontinence,0
-681,syndrome of inappropriate secretion of adh (siadh),3
+681,syndrome of inappropriate secretion of adh (siadh),5
 682,urge incontinence,0
-683,congenital malformation syndrome,3
-684,open wound of the ear,1
-685,testicular cancer,3
+683,congenital malformation syndrome,5
+684,open wound of the ear,2
+685,testicular cancer,5
 686,dislocation of the hip,4
 687,fracture of the neck,4
 688,open wound of the shoulder,4
-689,priapism,3
+689,priapism,5
 690,sciatica,4
 691,myelodysplastic syndrome,1
 692,broken tooth,2
-693,open wound of the cheek,4
-694,open wound of the face,4
+693,open wound of the cheek,2
+694,open wound of the face,2
 695,open wound of the lip,2
-696,adjustment reaction,3
+696,adjustment reaction,5
 697,de quervain disease,4
 698,dislocation of the wrist,4
-699,drug abuse (barbiturates),3
-700,heart contusion,3
-701,huntington disease,3
+699,drug abuse (barbiturates),5
+700,heart contusion,5
+701,huntington disease,5
 702,hypergammaglobulinemia,1
-703,kaposi sarcoma,3
-704,myoclonus,3
-705,primary insomnia,3
-706,psychosexual disorder,3
-707,thalassemia,3
+703,kaposi sarcoma,5
+704,myoclonus,5
+705,primary insomnia,5
+706,psychosexual disorder,5
+707,thalassemia,5
 708,vitamin b12 deficiency,1
 709,vitamin d deficiency,1
 710,avascular necrosis,4
@@ -722,26 +722,26 @@ Id,Label,Community
 720,plantar fasciitis,4
 721,rotator cuff injury,4
 722,tendinitis,4
-723,human immunodeficiency virus infection (hiv),3
+723,human immunodeficiency virus infection (hiv),5
 724,endometrial hyperplasia,0
 725,chondromalacia of the patella,4
 726,fracture of the leg,4
 727,injury to the knee,4
 728,injury to the leg,4
 729,joint effusion,4
-730,open wound of the jaw,2
-731,rheumatic fever,5
+730,open wound of the jaw,4
+731,rheumatic fever,3
 732,edward syndrome,0
 733,dislocation of the finger,4
 734,anal fistula,0
 735,diabetic kidney disease,0
-736,fibroadenoma,2
+736,fibroadenoma,6
 737,von willebrand disease,0
 738,fracture of the ankle,4
 739,fracture of the foot,4
 740,gout,4
 741,injury of the ankle,4
-742,breast cancer,2
+742,breast cancer,6
 743,endometrial cancer,0
 744,menopause,0
 745,bone spur of the calcaneous,4
@@ -770,5 +770,5 @@ Id,Label,Community
 768,trigger finger (finger disorder),4
 769,open wound of the finger,4
 770,open wound of the hand,4
-771,fibrocystic breast disease,2
+771,fibrocystic breast disease,6
 772,open wound due to trauma,4

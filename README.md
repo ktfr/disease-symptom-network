@@ -38,7 +38,6 @@ It is suggested to run this within VS Code.
 ---
 
 ### File Specifications and Locations: 
-(This directory is incomplete.)
 ```
 disease-symptom-network/
 ├── dataframes/                                         # Contains dataframes in pickle files 

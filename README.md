@@ -41,8 +41,8 @@ It is suggested to run this within VS Code.
 (This directory is incomplete.)
 ```
 disease-symptom-network/
-├── dataframes/                                     # Contains dataframes in pickle files 
-│   ├── df_aggregated.pk1                                   # Our aggegated dataset
+├── dataframes/                                         # Contains dataframes in pickle files 
+│   ├── df_aggregated.pk1                               # Our aggegated dataset
 │   ├── disease_network_edges.txt                       # Text file of our network edges for viewing
 │   ├── edges_df_sorted.pk1                             # Our network edges dataset sorted
 │   ├── edges_df.pk1                                    # Our network edges dataset unsorted

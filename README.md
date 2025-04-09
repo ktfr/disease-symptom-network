@@ -32,7 +32,7 @@ To install any imports, you may rorunm ```pip install <import>```
 ### Setup
 It is suggested to run this within VS Code.
 1. Clone the repository: ```git clone https://github.com/ktfr/disease-symptom-network.git```
-2. Navigate to the 'dataframes' directory: ```cd notebooks```
+2. Navigate to the 'notebooks' directory: ```cd notebooks```
 3. View and run the relevant notebooks.
 
 ---
